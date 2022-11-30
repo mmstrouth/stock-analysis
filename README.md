@@ -7,18 +7,18 @@ Initially, my friend Steve asked for a sheet that analyzed one particular stock,
 ## Results
 Overall, refactoring the code saved time running the analysis, as shown in screenshot 1 and screenshot 2.
 Screenshot 1
-![This is an image] https://github.com/mmstrouth/stock-analysis/blob/d3649e15d3ec0d22aa0506fb6bdc3cc12061ca8f/vba_challenge_2018_module_time.png
+![This is an image](https://github.com/mmstrouth/stock-analysis/blob/d3649e15d3ec0d22aa0506fb6bdc3cc12061ca8f/vba_challenge_2018_module_time.png)
 
 Screenshot 2
-![This is an image] https://github.com/mmstrouth/stock-analysis/blob/d3649e15d3ec0d22aa0506fb6bdc3cc12061ca8f/vba_challenge_2018_refactored_time.png
+![This is an image](https://github.com/mmstrouth/stock-analysis/blob/d3649e15d3ec0d22aa0506fb6bdc3cc12061ca8f/vba_challenge_2018_refactored_time.png)
 
 Unforunately the directions provided by the challenge were nons-sensical, asking for the 2018 and 2018, as shown in the screenshot below. I interpreted that to mean show the original time and the refactored time. 
 
-![This is an image] https://github.com/mmstrouth/stock-analysis/blob/d3649e15d3ec0d22aa0506fb6bdc3cc12061ca8f/vba_challenge_direction_confusion.png
+![This is an image](https://github.com/mmstrouth/stock-analysis/blob/d3649e15d3ec0d22aa0506fb6bdc3cc12061ca8f/vba_challenge_direction_confusion.png)
 
 The code itself required that an array configuration using for loops, a skill not taught or practiced in the module. I originally ran it without specifically telling it to record the results on the All Stocks Analysis Worksheet, which is where my screenshot came from. When I added the following code, indicating where the results should show up, I consistently received an error. 
 
-![This is an image] https://github.com/mmstrouth/stock-analysis/blob/b2a20d2104413a45d843367e24739deb93e633c8/vba_challenge_worksheet_code.png
+![This is an image](https://github.com/mmstrouth/stock-analysis/blob/b2a20d2104413a45d843367e24739deb93e633c8/vba_challenge_worksheet_code.png)
 
 
 ## Summary
