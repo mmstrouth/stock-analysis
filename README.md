@@ -6,10 +6,13 @@ Initially, my friend Steve asked for a sheet that analyzed one particular stock,
 
 ## Results
 Overall, refactoring the code saved time running the analysis, as shown in screenshot 1 and screenshot 2.
+
 Screenshot 1
+
 ![This is an image](https://github.com/mmstrouth/stock-analysis/blob/d3649e15d3ec0d22aa0506fb6bdc3cc12061ca8f/vba_challenge_2018_module_time.png)
 
 Screenshot 2
+
 ![This is an image](https://github.com/mmstrouth/stock-analysis/blob/d3649e15d3ec0d22aa0506fb6bdc3cc12061ca8f/vba_challenge_2018_refactored_time.png)
 
 Unforunately the directions provided by the challenge were nons-sensical, asking for the 2018 and 2018, as shown in the screenshot below. I interpreted that to mean show the original time and the refactored time. 
